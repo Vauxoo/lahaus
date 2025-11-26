@@ -1,0 +1,4 @@
+[submodule "lahaus"]
+	path = lahaus
+	url = git@git.vauxoo.com:vauxoo/lahaus.git
+	branch = 19.0
